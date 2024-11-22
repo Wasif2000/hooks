@@ -1,10 +1,10 @@
 import React from 'react'
-import First from './Components/First'
+import Resume from './Portfolio/Resume'
 
 const App = () => {
   return (
     <>
-    <First/>
+    <Resume/>
     </>
   )
 }
