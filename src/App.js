@@ -1,10 +1,10 @@
 import React from 'react'
-import Resume from './Portfolio/Resume'
+import Context from './Components/Context'
 
 const App = () => {
   return (
     <>
-    <Resume/>
+    <Context/>
     </>
   )
 }
